@@ -1,4 +1,10 @@
-# D++ Windows Bot Template
+# My Bot: using dpp.dev Bot Template
+This bot has been created with the help of a template. It is not finished, this is not the final product :) 
+Creator's READ ME below:
+
+-----------------------
+
+D++ Windows Bot Template
 
 A [D++](https://github.com/brainboxdotcc/DPP) Discord Bot template for Visual Studio 2022 (x64 and x86, release and debug). This repository is the result of [this tutorial](https://dpp.dev/build-a-discord-bot-windows-visual-studio.html) with additional enhancements for automatic selection of the correct architecture, and copying of the dll files into the correct folders on successful build.
 
