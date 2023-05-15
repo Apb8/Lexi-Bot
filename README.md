@@ -1,5 +1,5 @@
 # My Bot: using dpp.dev Bot Template
-This bot has been created with the help of a template. It is not finished, this is not the final product.
+This bot has been created with the help of a template. It is not finished, this is not the final product :) 
 Creator's READ ME below:
 
 -----------------------
