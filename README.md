@@ -1,0 +1,2 @@
+# Lexi-Bot
+Discord bot
